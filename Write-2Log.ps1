@@ -27,7 +27,7 @@
         }
     }
 
-    switch ($InfoLevel)
+    switch ($SeverityLevel)
     {
         "DEBUG" 
         {
