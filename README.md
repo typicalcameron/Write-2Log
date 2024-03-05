@@ -18,10 +18,10 @@
 
 ## Examples:
 ### Example 1:
-```
+```powershell
     Write-2Log -SeverityLevel DEBUG -Message "Message here"
 ```
 ### Example 2:
-```
+```powershell
     Write-2Log -SeverityLevel INFO -Message "Message here"
 ```
