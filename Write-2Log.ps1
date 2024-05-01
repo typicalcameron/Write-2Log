@@ -1,4 +1,5 @@
-﻿function Write-2Log {
+﻿function Write-2Log 
+{
     param(
         [Parameter(Mandatory=$true)]
         [ValidateSet("DEBUG","INFO","WARNING","ERROR")]
