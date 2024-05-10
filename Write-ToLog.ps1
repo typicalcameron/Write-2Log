@@ -1,4 +1,4 @@
-﻿function Write-2Log 
+﻿function Write-ToLog 
 {
     param(
         [Parameter(Mandatory=$true)]
