@@ -1,6 +1,6 @@
-# Write-2Log
+# Write-ToLog
  ## Description:
- * Write-2Log is a simple function designed to log messages to files.
+ * Write-ToLog is a simple function designed to log messages to files.
 
 ## Parameters:
 * `$SeverityLevel`:
@@ -19,9 +19,9 @@
 ## Examples:
 ### Example 1:
 ```powershell
-Write-2Log -SeverityLevel DEBUG -Message "Message here"
+Write-ToLog -SeverityLevel DEBUG -Message "Message here"
 ```
 ### Example 2:
 ```powershell
-Write-2Log -SeverityLevel INFO -Message "Message here"
+Write-ToLog -SeverityLevel INFO -Message "Message here"
 ```
